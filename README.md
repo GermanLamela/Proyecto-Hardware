@@ -15,4 +15,4 @@ Los residuos informáticos, también conocidos como desechos electrónicos o e-w
 La rápida evolución de la tecnología conduce a una obsolescencia acelerada de dispositivos, generando grandes cantidades de residuos informáticos. Estos desechos contienen materiales peligrosos como metales pesados, plásticos y productos químicos, que representan riesgos para la salud humana y el medio ambiente si no se gestionan adecuadamente.
 
 La gestión inapropiada de los residuos informáticos a menudo implica la quema o el vertido, liberando sustancias tóxicas en el aire, agua y suelo. Para abordar este problema, es crucial promover prácticas de reciclaje adecuadas y la reutilización de componentes electrónicos. Además, la concientización sobre la importancia de la disposición responsable de los dispositivos electrónicos contribuye a mitigar el impacto negativo de los residuos informáticos en nuestro entorno.
-
+Los riesgos laborales en nuestro campo que abordaremos son los relacionados con el manejo y la gestión de cables y electricidad, la ciberseguridad, la seguridad de la información y los datos; y promover las prácticas seguras para cumplir todo lo anterior.
