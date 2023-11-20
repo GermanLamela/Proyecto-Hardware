@@ -1,7 +1,7 @@
 # Proyecto-Hardware
 ## Proyecto Hardware
 
-¿Qué es la Contaminación Medio Ambiental?
+**¿Qué es la Contaminación Medio Ambiental?**
 
 La contaminación ambiental es un fenómeno alarmante que afecta negativamente nuestro entorno. Se origina principalmente por la liberación de sustancias tóxicas y desechos industriales en el aire, agua y suelo. Los principales contaminantes incluyen emisiones de gases de efecto invernadero, productos químicos industriales, plásticos y desechos domésticos.
 
