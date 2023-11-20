@@ -1,5 +1,5 @@
 # Proyecto-Hardware
-Proyecto Hardware
+## Proyecto Hardware
 
 ¿Qué es la Contaminación Medio Ambiental?
 
@@ -9,7 +9,7 @@ Estas sustancias contaminantes tienen consecuencias perjudiciales para la salud 
 
 Combatir la contaminación ambiental requiere esfuerzos colectivos a nivel global, que incluyan la adopción de prácticas sostenibles, la promoción de tecnologías limpias y la concientización sobre la importancia de preservar nuestro entorno. La búsqueda de soluciones efectivas es crucial para garantizar un futuro sostenible para las generaciones venideras.
 
-Residuos Informáticos
+## Residuos Informáticos
 
 Los residuos informáticos, también conocidos como desechos electrónicos o e-waste, son un creciente problema ambiental y de gestión de residuos. Estos residuos comprenden dispositivos electrónicos obsoletos, como computadoras, teléfonos móviles, impresoras y otros equipos electrónicos.
 
