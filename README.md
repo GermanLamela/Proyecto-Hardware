@@ -1,5 +1,5 @@
 # Proyecto-Hardware
-
+$la Formula = x/2 + y²$
 **¿Qué es la Contaminación Medio Ambiental?**
 
 >Es un fenómeno alarmante que afecta negativamente nuestro entorno. Originado por la liberación de sustancias tóxicas y desechos industriales. Los principales contaminantes incluyen >emisiones de gases de efecto invernadero, productos químicos industriales, plásticos y desechos domésticos.
