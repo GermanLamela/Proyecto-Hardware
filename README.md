@@ -24,11 +24,8 @@
 **Prevención de riesgos laborales**
 >En el ámbito informático, la prevención de riesgos laborales se ha vuelto fundamental dada la creciente dependencia de las organizaciones en la tecnología y la informática. Los profesionales de la informática se enfrentan a una serie de riesgos laborales que pueden afectar su salud y bienestar, así como la continuidad operativa de las empresas. Desde la exposición a riesgos ergonómicos hasta amenazas cibernéticas, es esencial implementar medidas preventivas para salvaguardar la salud y la seguridad de los trabajadores del sector informático.
 >
->En esta perspectiva, exploraremos algunos de los riesgos laborales comunes en el ámbito informático y discutiremos las estrategias de prevención que pueden adoptarse para garantizar un entorno de trabajo seguro y eficiente. Estos son:
->
-Lista1
--a
--b
--c
->
->
+>En esta perspectiva, exploraremos algunos de los riesgos laborales comunes en el ámbito informático y discutiremos las estrategias de prevención que pueden adoptarse para garantizar un entorno de trabajo seguro y eficiente. Trataremos los siguientes puntos:
+>- Gestión de cables y electricidad: Enfocarse en la organización y manejo de cables para prevenir riesgos eléctricos y tropiezos, así como asegurar el correcto suministro eléctrico.
+>- Políticas de seguridad de la información: Establecer pautas y protocolos para garantizar la seguridad de la información y la protección de datos confidenciales.
+>- Seguridad informática y ciberseguridad: Abordar los riesgos asociados con la manipulación de datos sensibles, ataques cibernéticos, malware y otras amenazas para la seguridad de la información.
+>- Formación y concienciación: Desarrollar programas de formación para concientizar a los trabajadores sobre los riesgos laborales en informática y promover prácticas seguras.
