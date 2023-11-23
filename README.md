@@ -29,3 +29,6 @@
 >- Políticas de seguridad de la información: Establecer pautas y protocolos para garantizar la seguridad de la información y la protección de datos confidenciales.
 >- Seguridad informática y ciberseguridad: Abordar los riesgos asociados con la manipulación de datos sensibles, ataques cibernéticos, malware y otras amenazas para la seguridad de la información.
 >- Formación y concienciación: Desarrollar programas de formación para concientizar a los trabajadores sobre los riesgos laborales en informática y promover prácticas seguras.
+>
+**Gestión de cables y electricidad**
+>- La gestión adecuada de cables y electricidad es esencial para prevenir accidentes y riesgos laborales. Esto implica organizar y asegurar los cables de manera que no representen peligros de tropiezos o caídas, además de garantizar que los >- cables eléctricos estén en buen estado y correctamente enchufados. Se deben seguir normas de seguridad eléctrica, como el uso de enchufes a tierra, para evitar descargas eléctricas. La conciencia sobre el manejo seguro de cables y electricidad también incluye la capacitación de los trabajadores para reconocer y abordar posibles problemas antes de que se conviertan en riesgos serios.
