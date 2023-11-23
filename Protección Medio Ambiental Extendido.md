@@ -23,3 +23,19 @@
 
 >La obsolescencia programada es una estrategia en la que los fabricantes diseñan productos con una vida útil limitada, lo que impulsa a los consumidores a reemplazarlos más >frecuentemente. Este fenómeno está presente tanto en componentes como dispositivos electrónicos.
 
+**Apple como Ejemplo**
+
+*Apple ha sido objeto de numerosas críticas y debates en torno a la obsolescencia programada. La empresa diseña deliberadamente sus productos con una vida útil limitada para incentivar a los usuarios a actualizar constantemente a las versiones más recientes. Esto incentiva al consumidor a comprar casi todos los años los dispositivos más recientes y hardware excesivamente caro de forma continuada y en algunos casos compulsiva.*
+
+Algunos aspectos son:
+
+- **Actualizaciones de software:** Apple a menudo lanza nuevas versiones de su sistema operativo que pueden ralentizar deliberadamente modelos más antiguos de dispositivos, lo que lleva a una experiencia de usuario más lenta y menos satisfactoria en los modelos más antiguos.
+
+- **Dificultad de reparación:** Apple diseña sus dispositivos para que no sean fácilmente reparables, a menudo muchos dispositivos de Iphone necesitan herramientas específicas y reqieren de componentes de la propia marca para que funcionen correctamente. En muchos casos, Apple cobra por servicios de reparación precios excesivamente caros, lo que incentiva a que el consumidor decida comprar un dispositivo nuevo en vez de reparar el antiguo.
+
+- **Ciclo de actualización rápido:** Apple suele lanzar nuevos modelos de iPhone y otros dispositivos con relativa frecuencia, generando un ciclo de actualización rápido que fomenta la obsolescencia percibida de los modelos más antiguos.
+
+Es importante destacar que Apple ha tomado medidas para abordar algunas de estas preocupaciones. Por ejemplo, la empresa introdujo la opción de reemplazar la batería de ciertos modelos de iPhone a un costo reducido y ha implementado funciones para permitir a los usuarios gestionar el rendimiento de la batería.
+
+El debate sobre la obsolescencia programada en productos de Apple refleja preocupaciones más amplias sobre la sostenibilidad, la responsabilidad del fabricante y la durabilidad de los productos electrónicos de consumo.
+
