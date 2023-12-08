@@ -6,6 +6,7 @@
 
 ## Potencial de la IA en la Prevención de Riesgos Laborales ##
 >- La capacidad de la IA para analizar extensos conjuntos de datos de seguridad permite la identificación de patrones y tendencias de riesgo. Un ejemplo palpable es su habilidad para analizar datos de accidentes laborales, desentrañando las lesiones más comunes y las áreas de mayor incidencia.
+>
 **Aplicaciones Prácticas de la IA en el Trabajo Diario**
 
 **Análisis de datos en tiempo real**
