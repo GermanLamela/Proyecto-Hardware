@@ -33,15 +33,18 @@
 
 **Monitoreo de la Salud del Sistema**
 >- Las IA pueden utilizar algoritmos predictivos para anticipar fallos en el sistema. Esto implica analizar patrones históricos y comportamientos que preceden a fallas, permitiendo la toma de medidas preventivas antes de que se produzcan problemas críticos. Antes de implementar cambios en la configuración del sistema, las IA pueden evaluar el impacto potencial en la seguridad. Esto reduce el riesgo de configuraciones incorrectas que podrían exponer la infraestructura a amenazas no deseadas. Proporcionando retroalimentación continua sobre la eficacia de las medidas de seguridad implementadas, las IA permiten una mejora continua. Esto incluye ajustes en la configuración del sistema y la aplicación de nuevas estrategias de seguridad en respuesta a la evolución de las amenazas.
->  
+> ![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/91904953/84a21e6f-c406-4833-b889-f2535cecdfe6)
+
 
 **Análisis de Incidentes**
 >- Las IA pueden correlacionar eventos aparentemente no relacionados para identificar patrones de ataque más complejos. Esto incluye la identificación de tácticas de evasión utilizadas por los atacantes para eludir las defensas convencionales. En el análisis de incidentes, las IA pueden reconstruir la secuencia de eventos que condujo a un incidente. Esto no solo ayuda a comprender la causa raíz, sino que también proporciona una visión detallada de cómo ocurrieron las fases del ataque. Las IA pueden contribuir al desarrollo de planes de respuesta automatizados para incidentes conocidos. Esto garantiza respuestas rápidas y consistentes, minimizando el tiempo de inactividad y reduciendo el impacto global de los incidentes de seguridad.
->  
+>  ![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/91904953/b94483eb-8e68-4572-869a-249ea4d1f5be)
+
 
 **Gestión de Vulnerabilidades**
 >- Las IA pueden evaluar la explotabilidad de las vulnerabilidades identificadas, considerando factores como la criticidad del sistema afectado y su exposición potencial. Esto ayuda a los equipos de seguridad a priorizar la remediación de las vulnerabilidades más críticas. Además de escanear aplicaciones, las IA pueden evaluar configuraciones de red y sistemas operativos en busca de debilidades. Esto proporciona una evaluación completa de la postura de seguridad del entorno y permite abordar vulnerabilidades en todos los aspectos de la infraestructura. Al integrarse con sistemas de gestión de vulnerabilidades, las IA facilitan la gestión centralizada de los hallazgos de seguridad. Esto mejora la coordinación entre los equipos de seguridad y desarrollo, agilizando el proceso de remediación.
->
+> ![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/91904953/f1d87d49-6ed8-40dc-b217-febc65139c83)
+
 
 ***Bibliografía***
 >- https://prevencion-riesgoslaborales.com/riesgos-laborales-sector-informatica
