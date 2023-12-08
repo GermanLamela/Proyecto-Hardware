@@ -1,4 +1,4 @@
-
+<div style="text-align: justify">
 # La Transformación Laboral con la Inteligencia Artificial.
 >- La presencia creciente de la Inteligencia Artificial (IA) redefine nuestra forma de abordar la seguridad laboral y la gestión de riesgos. Este avance tecnológico se posiciona como uno de los más disruptivos en diversos campos. En el ámbito laboral, la IA emerge como una herramienta invaluable para prevenir riesgos y salvaguardar a los trabajadores.
 ![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/91904953/62ae9c43-daee-4a0a-a35e-157e60486eaa)
@@ -23,7 +23,8 @@
 > 
 **Capacitación en Seguridad**
 >- Las IA pueden adaptar dinámicamente los programas de capacitación según las tendencias actuales de ciberseguridad y los riesgos específicos de la organización. Esto garantiza que los empleados estén actualizados y preparados para enfrentar las amenazas más recientes. Utilizando datos de incidentes pasados, las IA pueden generar simulaciones realistas que replican amenazas reales. Esto proporciona a los empleados una experiencia de aprendizaje más inmersiva, permitiéndoles practicar la respuesta a situaciones auténticas. Las IA pueden realizar análisis de riesgos a nivel individual, evaluando el comportamiento y las interacciones específicas de cada empleado. Esto permite personalizar los programas de capacitación para abordar las áreas de vulnerabilidad específicas de cada persona.
->  
+>
+> 
 
 **Automatización de Tareas Riesgosas**
 >- Además del análisis estático de código, las IA pueden realizar análisis dinámico durante la ejecución de aplicaciones. Esto permite identificar posibles vulnerabilidades y comportamientos maliciosos que solo son evidentes en tiempo de ejecución. Las IA pueden   integrarse en los pipelines de entrega continua en entornos de DevOps para evaluar automáticamente la seguridad del código en cada fase del desarrollo. Esto garantiza que las vulnerabilidades se aborden temprano en el ciclo de vida del desarrollo. Colaborando     con equipos de desarrollo, las IA pueden ayudar a priorizar las vulnerabilidades identificadas según su criticidad y el riesgo potencial. Esto asegura que los recursos se asignen eficientemente para abordar las amenazas más significativas.
@@ -39,8 +40,10 @@
 
 **Gestión de Vulnerabilidades**
 >- Las IA pueden evaluar la explotabilidad de las vulnerabilidades identificadas, considerando factores como la criticidad del sistema afectado y su exposición potencial. Esto ayuda a los equipos de seguridad a priorizar la remediación de las vulnerabilidades más críticas. Además de escanear aplicaciones, las IA pueden evaluar configuraciones de red y sistemas operativos en busca de debilidades. Esto proporciona una evaluación completa de la postura de seguridad del entorno y permite abordar vulnerabilidades en todos los aspectos de la infraestructura. Al integrarse con sistemas de gestión de vulnerabilidades, las IA facilitan la gestión centralizada de los hallazgos de seguridad. Esto mejora la coordinación entre los equipos de seguridad y desarrollo, agilizando el proceso de remediación.
->  
+>
+
 ***Bibliografía***
 >- https://prevencion-riesgoslaborales.com/riesgos-laborales-sector-informatica
 >- https://www.digitalpreventor.com/2023/09/26/la-ia-en-la-gestion-de-los-riesgos-laborales-ventajas-y-desafios/
 >- https://www.ui1.es/blog-ui1/la-inteligencia-artificial-ia-en-la-prl (RUBÉN TINO RAMOS Profesor de Máster en PRL y Máster en Dirección y Gestión de Proyectos)
+</div>
