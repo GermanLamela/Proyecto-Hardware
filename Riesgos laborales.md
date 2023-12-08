@@ -3,7 +3,7 @@
 >- La presencia creciente de la Inteligencia Artificial (IA) redefine nuestra forma de abordar la seguridad laboral y la gestión de riesgos. Este avance tecnológico se posiciona como uno de los más disruptivos en diversos campos. En el ámbito laboral, la IA emerge como una herramienta invaluable para prevenir riesgos y salvaguardar a los trabajadores.
 
 
-**Potencial de la IA en la Prevención de Riesgos Laborales**
+##Potencial de la IA en la Prevención de Riesgos Laborales##
 >- La capacidad de la IA para analizar extensos conjuntos de datos de seguridad permite la identificación de patrones y tendencias de riesgo. Un ejemplo palpable es su habilidad para analizar datos de accidentes laborales, desentrañando las lesiones más comunes y las áreas de mayor incidencia.
 **Aplicaciones Prácticas de la IA en el Trabajo Diario**
 
