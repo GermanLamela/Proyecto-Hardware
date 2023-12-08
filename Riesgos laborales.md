@@ -44,35 +44,3 @@
 >- https://prevencion-riesgoslaborales.com/riesgos-laborales-sector-informatica
 >- https://www.digitalpreventor.com/2023/09/26/la-ia-en-la-gestion-de-los-riesgos-laborales-ventajas-y-desafios/
 >- https://www.ui1.es/blog-ui1/la-inteligencia-artificial-ia-en-la-prl (RUBÉN TINO RAMOS Profesor de Máster en PRL y Máster en Dirección y Gestión de Proyectos)
->
->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-linea sin simbolo
-> linea con simbolo
-> > linea con simbolo
