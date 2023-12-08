@@ -21,8 +21,8 @@
 > 
 **Capacitación en Seguridad**
 >- Las IA pueden adaptar dinámicamente los programas de capacitación según las tendencias actuales de ciberseguridad y los riesgos específicos de la organización. Esto garantiza que los empleados estén actualizados y preparados para enfrentar las amenazas más recientes. Utilizando datos de incidentes pasados, las IA pueden generar simulaciones realistas que replican amenazas reales. Esto proporciona a los empleados una experiencia de aprendizaje más inmersiva, permitiéndoles practicar la respuesta a situaciones auténticas. Las IA pueden realizar análisis de riesgos a nivel individual, evaluando el comportamiento y las interacciones específicas de cada empleado. Esto permite personalizar los programas de capacitación para abordar las áreas de vulnerabilidad específicas de cada persona.
+>![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/91904953/d2fb8570-8b50-43c8-a8bb-50777d929094)
 >
-> 
 
 **Automatización de Tareas Riesgosas**
 >- Además del análisis estático de código, las IA pueden realizar análisis dinámico durante la ejecución de aplicaciones. Esto permite identificar posibles vulnerabilidades y comportamientos maliciosos que solo son evidentes en tiempo de ejecución. Las IA pueden   integrarse en los pipelines de entrega continua en entornos de DevOps para evaluar automáticamente la seguridad del código en cada fase del desarrollo. Esto garantiza que las vulnerabilidades se aborden temprano en el ciclo de vida del desarrollo. Colaborando     con equipos de desarrollo, las IA pueden ayudar a priorizar las vulnerabilidades identificadas según su criticidad y el riesgo potencial. Esto asegura que los recursos se asignen eficientemente para abordar las amenazas más significativas.
