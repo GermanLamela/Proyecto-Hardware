@@ -1,4 +1,4 @@
-
+<div style="text-align: justify">
 **¿Qué es la Contaminación Medio Ambiental?**
 
 > Es un fenómeno alarmante que afecta negativamente nuestro entorno. Originado por la liberación de sustancias tóxicas y desechos industriales. Los principales contaminantes incluyen emisiones de gases de efecto invernadero, productos químicos industriales, plásticos y desechos domésticos.
@@ -120,3 +120,4 @@ Algunas estrategias clave de la informática ecológica
 - **Ejemplo:** Implementación de políticas y tecnologías que apagan automáticamente los dispositivos cuando no están en uso, como monitores, impresoras o sistemas informáticos.
 
 Estas prácticas de informática ecológica no solo contribuyen a la sostenibilidad ambiental, sino que también pueden resultar en ahorros económicos a largo plazo para las organizaciones y los individuos.
+</div>
