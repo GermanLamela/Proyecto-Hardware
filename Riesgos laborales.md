@@ -18,3 +18,7 @@
 **Formación y concienciación**
 >- La formación y concienciación son elementos clave para reducir los riesgos laborales en el ámbito informático. Los empleados deben recibir formación regular sobre políticas de seguridad, procedimientos de emergencia, prácticas seguras en el manejo de información sensible y la identificación de posibles amenazas cibernéticas. La concienciación también implica fomentar una cultura organizacional que valore la seguridad y motive a los empleados a reportar cualquier incidente o comportamiento sospechoso. La formación continua y la actualización sobre las últimas amenazas y mejores prácticas son esenciales para mantener un entorno de trabajo seguro y resistente a los riesgos informáticos.
 >  
+***Bibliografía***
+>- https://prevencion-riesgoslaborales.com/riesgos-laborales-sector-informatica
+>- https://www.digitalpreventor.com/2023/09/26/la-ia-en-la-gestion-de-los-riesgos-laborales-ventajas-y-desafios/
+>- https://www.ui1.es/blog-ui1/la-inteligencia-artificial-ia-en-la-prl (RUBÉN TINO RAMOS Profesor de Máster en PRL y Máster en Dirección y Gestión de Proyectos)
