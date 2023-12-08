@@ -4,6 +4,9 @@
 
 > Es un fenómeno alarmante que afecta negativamente nuestro entorno. Originado por la liberación de sustancias tóxicas y desechos industriales. Los principales contaminantes incluyen emisiones de gases de efecto invernadero, productos químicos industriales, plásticos y desechos domésticos.
 
+![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/d40c7c96-2147-455d-a6b0-3138c2b00289)
+
+
 Estas sustancias son nocivas para la salud humana, la biodiversidad y el equilibrio ecológico. 
 Esto tiene como consecuencias:
 
@@ -12,6 +15,8 @@ Esto tiene como consecuencias:
 - Contaminación del suelo reduciendo la fertilidad y resultando en la acumulación de sustancias dañinas en los alimentos que consumimos.
 
 **El Impacto de las nuevas tecnologías en el medio ambiente**
+
+![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/0f7d35e2-b086-48ad-b1df-7bb16724ca42)
 
 Las nuevas tecnologías tienen un cierto impacto en el medio ambiente que cada vez preocupa más a los expertos. A pesar de la innovación en las nuevas tecnologías y el avance que han supuesto en muchos aspectos de nuestras vidas, ya sea comodidad, o eficiencia, eta presenta una serie de inconvenientes:
 
@@ -33,11 +38,13 @@ Por otro lado, las tecnologías pueden desempeñar un papel importante tanto en 
 
 Las inteligencias artificiales están revolucionando el mercado actual, y es cierto que podrían tener un impacto importante en la contaminación ambiental. Las inteligencias artificiales podrían revolucionar el transporte tal y como lo conocemos, un bus automatizado y totalmente autónomo podría hacer el mismo recorrido de forma eficiente, transportando un gran volumen de personas de un punto a otro. Pero también los servidores que operan redes neuronales, consumen una cantidad insólita de electricidad para poder operar correctamente debido a la alta demanda de usuarios que deben atender.
 
-https://www.linkedin.com/pulse/impactos-ambientales-de-la-ia-iaasesores-zfb5c/?originalSubdomain=es
+![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/850f41a6-8768-4f64-a45e-129436fdf483)
 
 **¿Cómo se debe combatir esta Contaminación?**
 
 > Para combatir la contaminación se requiere esfuerzos colectivos a nivel global, que incluyan **adoptar prácticas sostenibles**,  **promover tecnologías limpias** y **concienciar sobre la importancia de preservar nuestro entorno**. La búsqueda de soluciones efectivas es crucial para garantizar un futuro sostenible para las generaciones venideras.
+
+https://www.linkedin.com/pulse/impactos-ambientales-de-la-ia-iaasesores-zfb5c/?originalSubdomain=es
 
 # Residuos Informáticos
 
@@ -46,6 +53,9 @@ https://www.linkedin.com/pulse/impactos-ambientales-de-la-ia-iaasesores-zfb5c/?o
 La rápida evolución de la tecnología conduce a una obsolescencia acelerada de dispositivos, generando grandes cantidades de residuos informáticos. Estos desechos contienen materiales peligrosos como metales pesados, plásticos y productos químicos, que representan riesgos para la salud humana y el medio ambiente si no se gestionan adecuadamente.
 
 **¿Cuáles son las consecuencias de los residuos?**
+
+![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/732f1cbb-7be6-47ed-9aed-b2103a085654)
+
 
 Los residuos informáticos, producen una serie de Consecuencias causas en gran medida por la producción desmedida de los mismos y de la falta de preocupación del humano, a parte de la mala gestión de los mismos. Algunas consecuencias más importantes serían:
 
@@ -61,6 +71,9 @@ Los residuos informáticos, producen una serie de Consecuencias causas en gran m
 # Obsolescencia Programada
 
 >La obsolescencia programada es una estrategia en la que los fabricantes diseñan productos con una vida útil limitada, lo que impulsa a los consumidores a reemplazarlos más frecuentemente.
+
+![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/88de4b85-b268-4db3-b51c-525a4854e178)
+
 
 Este fenómeno puede aplicarse a una amplia variedad de productos, desde electrodomésticos hasta dispositivos electrónicos. 
 Y provocan las siguientes consecuencias:
@@ -98,6 +111,8 @@ El debate sobre la obsolescencia programada en productos de Apple refleja preocu
 # Informática Ecológica
 
 > La informática ecológica, también conocida como "green computing" o informática verde, se refiere a la práctica de **diseñar, fabricar, utilizar y gestionar sistemas informáticos** de manera que **minimicen su impacto ambiental**. 
+
+![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/53bd2b56-c9f9-4d03-ba04-a8705d35f0bf)
 
 Con esto se busca reducir el consumo de recursos, la generación de residuos electrónicos y la huella de carbono asociada con las tecnología de la información. 
 Algunas estrategias clave de la informática ecológica
