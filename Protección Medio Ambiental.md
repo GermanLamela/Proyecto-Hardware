@@ -6,7 +6,6 @@
 
 ![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/d40c7c96-2147-455d-a6b0-3138c2b00289)
 
-
 Estas sustancias son nocivas para la salud humana, la biodiversidad y el equilibrio ecológico. 
 Esto tiene como consecuencias:
 
@@ -15,8 +14,6 @@ Esto tiene como consecuencias:
 - Contaminación del suelo reduciendo la fertilidad y resultando en la acumulación de sustancias dañinas en los alimentos que consumimos.
 
 **El Impacto de las nuevas tecnologías en el medio ambiente**
-
-![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/0f7d35e2-b086-48ad-b1df-7bb16724ca42)
 
 Las nuevas tecnologías tienen un cierto impacto en el medio ambiente que cada vez preocupa más a los expertos. A pesar de la innovación en las nuevas tecnologías y el avance que han supuesto en muchos aspectos de nuestras vidas, ya sea comodidad, o eficiencia, eta presenta una serie de inconvenientes:
 
