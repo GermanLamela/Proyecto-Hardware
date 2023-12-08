@@ -6,7 +6,7 @@
 **Potencial de la IA en la Prevención de Riesgos Laborales**
 >-La capacidad de la IA para analizar extensos conjuntos de datos de seguridad permite la identificación de patrones y tendencias de riesgo. Un ejemplo palpable es su habilidad para analizar datos de accidentes laborales, desentrañando las lesiones más comunes y las áreas de mayor incidencia.
 **Aplicaciones Prácticas de la IA en el Trabajo Diario**
->-
+
 **Análisis de datos en tiempo real**
 >- Las IA pueden utilizar técnicas avanzadas de aprendizaje no supervisado para detectar patrones anómalos en grandes conjuntos de datos en tiempo real. Por ejemplo, en la monitorización del tráfico de red, pueden identificar desviaciones significativas del comportamiento habitual que podrían indicar un intento de intrusión. Además de identificar anomalías, las IA pueden contextualizar eventos. Por ejemplo, al analizar la actividad del usuario, pueden distinguir entre accesos normales y actividades maliciosas al considerar el contexto del usuario y el patrón de comportamiento histórico. Las IA pueden aprovechar fuentes externas de datos, como feeds de inteligencia de amenazas y bases de datos de vulnerabilidades, para mejorar la precisión de sus análisis. Esto permite una respuesta más informada y proactiva ante posibles amenazas.
 **Detección de Amenazas de Seguridad**
