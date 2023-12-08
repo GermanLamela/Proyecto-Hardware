@@ -1,8 +1,6 @@
-<div style="text-align: justify">
 # La Transformación Laboral con la Inteligencia Artificial.
 >- La presencia creciente de la Inteligencia Artificial (IA) redefine nuestra forma de abordar la seguridad laboral y la gestión de riesgos. Este avance tecnológico se posiciona como uno de los más disruptivos en diversos campos. En el ámbito laboral, la IA emerge como una herramienta invaluable para prevenir riesgos y salvaguardar a los trabajadores.
 ![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/91904953/62ae9c43-daee-4a0a-a35e-157e60486eaa)
-</div>
 
 ## Potencial de la IA en la Prevención de Riesgos Laborales ##
 >- La capacidad de la IA para analizar extensos conjuntos de datos de seguridad permite la identificación de patrones y tendencias de riesgo. Un ejemplo palpable es su habilidad para analizar datos de accidentes laborales, desentrañando las lesiones más comunes y las áreas de mayor incidencia.
@@ -46,4 +44,4 @@
 >- https://prevencion-riesgoslaborales.com/riesgos-laborales-sector-informatica
 >- https://www.digitalpreventor.com/2023/09/26/la-ia-en-la-gestion-de-los-riesgos-laborales-ventajas-y-desafios/
 >- https://www.ui1.es/blog-ui1/la-inteligencia-artificial-ia-en-la-prl (RUBÉN TINO RAMOS Profesor de Máster en PRL y Máster en Dirección y Gestión de Proyectos)
-</div>
+
