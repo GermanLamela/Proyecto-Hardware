@@ -13,10 +13,14 @@
 
 **Análisis de datos en tiempo real**
 >- Las IA pueden utilizar técnicas avanzadas de aprendizaje no supervisado para detectar patrones anómalos en grandes conjuntos de datos en tiempo real. Por ejemplo, en la monitorización del tráfico de red, pueden identificar desviaciones significativas del comportamiento habitual que podrían indicar un intento de intrusión. Además de identificar anomalías, las IA pueden contextualizar eventos. Por ejemplo, al analizar la actividad del usuario, pueden distinguir entre accesos normales y actividades maliciosas al considerar el contexto del usuario y el patrón de comportamiento histórico. Las IA pueden aprovechar fuentes externas de datos, como feeds de inteligencia de amenazas y bases de datos de vulnerabilidades, para mejorar la precisión de sus análisis. Esto permite una respuesta más informada y proactiva ante posibles amenazas.
+![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/91904953/ac84c1c0-87b1-463f-9c4f-543c56a26493)
+
 >  
 **Detección de Amenazas de Seguridad**
 >- Utilizando modelos de aprendizaje profundo, las IA pueden analizar patrones complejos en el tráfico de red. Por ejemplo, pueden identificar intrusiones mediante el reconocimiento de comportamientos inusuales en la secuencia de paquetes, lo que aumenta la capacidad de detección de amenazas más sofisticadas. Las IA pueden emplear análisis heurísticos y comportamentales para identificar malware avanzado que no se ajusta a las firmas convencionales. Esto incluye la capacidad de reconocer tácticas de evasión y técnicas utilizadas por amenazas persistentes avanzadas (APTs). La detección de amenazas puede extenderse a entornos en la nube y dispositivos periféricos. Las IA pueden analizar patrones de acceso y comportamiento en plataformas en la nube, así como identificar dispositivos periféricos comprometidos en una red.
->  
+>![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/91904953/7bd692c5-bc93-44d4-a8ef-3ff4123e63b6)
+
+> 
 **Capacitación en Seguridad**
 >- Las IA pueden adaptar dinámicamente los programas de capacitación según las tendencias actuales de ciberseguridad y los riesgos específicos de la organización. Esto garantiza que los empleados estén actualizados y preparados para enfrentar las amenazas más recientes. Utilizando datos de incidentes pasados, las IA pueden generar simulaciones realistas que replican amenazas reales. Esto proporciona a los empleados una experiencia de aprendizaje más inmersiva, permitiéndoles practicar la respuesta a situaciones auténticas. Las IA pueden realizar análisis de riesgos a nivel individual, evaluando el comportamiento y las interacciones específicas de cada empleado. Esto permite personalizar los programas de capacitación para abordar las áreas de vulnerabilidad específicas de cada persona.
 >  
