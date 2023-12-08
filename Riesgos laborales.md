@@ -27,7 +27,9 @@
 
 **Automatización de Tareas Riesgosas**
 >- Además del análisis estático de código, las IA pueden realizar análisis dinámico durante la ejecución de aplicaciones. Esto permite identificar posibles vulnerabilidades y comportamientos maliciosos que solo son evidentes en tiempo de ejecución. Las IA pueden   integrarse en los pipelines de entrega continua en entornos de DevOps para evaluar automáticamente la seguridad del código en cada fase del desarrollo. Esto garantiza que las vulnerabilidades se aborden temprano en el ciclo de vida del desarrollo. Colaborando     con equipos de desarrollo, las IA pueden ayudar a priorizar las vulnerabilidades identificadas según su criticidad y el riesgo potencial. Esto asegura que los recursos se asignen eficientemente para abordar las amenazas más significativas.
->  
+>![image](https://github.com/GermanLamela/Proyecto-Hardware/assets/91904953/49d81f51-f0e2-4bca-abdd-348512177416)
+
+
 
 **Monitoreo de la Salud del Sistema**
 >- Las IA pueden utilizar algoritmos predictivos para anticipar fallos en el sistema. Esto implica analizar patrones históricos y comportamientos que preceden a fallas, permitiendo la toma de medidas preventivas antes de que se produzcan problemas críticos. Antes de implementar cambios en la configuración del sistema, las IA pueden evaluar el impacto potencial en la seguridad. Esto reduce el riesgo de configuraciones incorrectas que podrían exponer la infraestructura a amenazas no deseadas. Proporcionando retroalimentación continua sobre la eficacia de las medidas de seguridad implementadas, las IA permiten una mejora continua. Esto incluye ajustes en la configuración del sistema y la aplicación de nuevas estrategias de seguridad en respuesta a la evolución de las amenazas.
