@@ -1,6 +1,7 @@
 **¿Qué es la Contaminación Medio Ambiental?**
 
 > Es un fenómeno alarmante que afecta negativamente nuestro entorno. Originado por la liberación de sustancias tóxicas y desechos industriales. Los principales contaminantes incluyen emisiones de gases de efecto invernadero, productos químicos industriales, plásticos y desechos domésticos.
+> 
 <img align="center" src='https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/75f2cebc-d400-4ccd-a5ff-09cbf2420c37' width=400>
 
 Estas sustancias son nocivas para la salud humana, la biodiversidad y el equilibrio ecológico. 
@@ -31,6 +32,7 @@ Por otro lado, las tecnologías pueden desempeñar un papel importante tanto en 
 **Impacto de las Inteligencias Artificiales en el Medio Ambiente**
 
 Las inteligencias artificiales están revolucionando el mercado actual, y es cierto que podrían tener un impacto importante en la contaminación ambiental. Las inteligencias artificiales podrían revolucionar el transporte tal y como lo conocemos, un bus automatizado y totalmente autónomo podría hacer el mismo recorrido de forma eficiente, transportando un gran volumen de personas de un punto a otro. Pero también los servidores que operan redes neuronales, consumen una cantidad insólita de electricidad para poder operar correctamente debido a la alta demanda de usuarios que deben atender.
+>
 <img align="center" src='https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/850f41a6-8768-4f64-a45e-129436fdf483' width=400>
 
 **¿Cómo se debe combatir esta Contaminación?**
@@ -46,6 +48,7 @@ https://www.linkedin.com/pulse/impactos-ambientales-de-la-ia-iaasesores-zfb5c/?o
 La rápida evolución de la tecnología conduce a una obsolescencia acelerada de dispositivos, generando grandes cantidades de residuos informáticos. Estos desechos contienen materiales peligrosos como metales pesados, plásticos y productos químicos, que representan riesgos para la salud humana y el medio ambiente si no se gestionan adecuadamente.
 
 **¿Cuáles son las consecuencias de los residuos?**
+>
 <img align="center" src='https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/732f1cbb-7be6-47ed-9aed-b2103a085654' width=400>
 
 
