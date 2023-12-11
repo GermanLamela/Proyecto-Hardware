@@ -3,7 +3,7 @@
 **¿Qué es la Contaminación Medio Ambiental?**
 
 > Es un fenómeno alarmante que afecta negativamente nuestro entorno. Originado por la liberación de sustancias tóxicas y desechos industriales. Los principales contaminantes incluyen emisiones de gases de efecto invernadero, productos químicos industriales, plásticos y desechos domésticos.
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/d40c7c96-2147-455d-a6b0-3138c2b00289)" width="200" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/GermanLamela/Proyecto-Hardware/assets/84339698/d40c7c96-2147-455d-a6b0-3138c2b00289" width="200" height="400" />
 
 Estas sustancias son nocivas para la salud humana, la biodiversidad y el equilibrio ecológico. 
 Esto tiene como consecuencias:
