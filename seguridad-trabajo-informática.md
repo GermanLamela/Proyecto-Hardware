@@ -1,7 +1,7 @@
 # La Transformación Laboral con la Inteligencia Artificial.
 
 ## Índice
->- ***Potencial de ka IA***
+>- ***Potencial de la IA***
 >- ***Aplicaciones Prácticas***
 >- ****Análisis de datos****
 >- ****Detección de Amenazas de Seguridad****
