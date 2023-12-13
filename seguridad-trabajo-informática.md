@@ -1,4 +1,15 @@
 # La Transformación Laboral con la Inteligencia Artificial.
+
+## Índice
+***Potencial de ka IA***
+***Aplicaciones Prácticas***
+****Análisis de datos****
+****Detección de Amenazas de Seguridad****
+****Capacitación en Seguridad****
+****Automatización de Tareas Riesgosas****
+****Monitoreo de la Salud del Sistema****
+****Análisis de Incidentes****
+****Gestión de Vulnerabilidades****
 >- La presencia creciente de la Inteligencia Artificial (IA) redefine nuestra forma de abordar la seguridad laboral y la gestión de riesgos. Este avance tecnológico se posiciona como uno de los más disruptivos en diversos campos. En el ámbito laboral, la IA emerge como una herramienta invaluable para prevenir riesgos y salvaguardar a los trabajadores.
 <img align="center" src='https://github.com/GermanLamela/Proyecto-Hardware/assets/91904953/62ae9c43-daee-4a0a-a35e-157e60486eaa' width=400>
 
