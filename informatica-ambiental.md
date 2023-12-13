@@ -112,21 +112,27 @@ Con esto se busca reducir el consumo de recursos, la generación de residuos ele
 Algunas estrategias clave de la informática ecológica
 
 **Eficiencia energética:** Reducción del consumo de energía, disminuyendo las emisiones de gases de efecto invernadero y los costos operativos asociados.
+
 - **Ejemplo:** Diseño de servidores y centros de datos con tecnologías que mejoran la eficiencia energética, como sistemas de refrigeración avanzados y hardware de bajo consumo.
 
 **Reciclaje de equipos electrónicos:** Minimización de la contaminación ambiental y conservación de recursos al reutilizar materiales reciclados.
+
  - **Ejemplo:** Programas de reciclaje de dispositivos electrónicos viejos o en desuso para recuperar materiales valiosos y reducir la cantidad de residuos electrónicos.
  
 **Diseño de productos sostenibles:** Reducción de residuos electrónicos, alargamiento de la vida útil de los productos y uso responsable de recursos.
+
  -**Ejemplo:** Desarrollo de dispositivos con materiales reciclables o biodegradables, y diseño modular que facilita la actualización y reparación en lugar de reemplazo.
 
 **Computación en la nube:** Menor consumo de energía y recursos físicos, así como la capacidad de escalar y ajustar la capacidad según la demanda.
+
 - **Ejemplo:** Migración de servicios y almacenamiento a la nube para consolidar recursos, permitir una gestión más eficiente y reducir la necesidad de servidores locales.
 
 **Teletrabajo y conferencias virtuales:** Menor impacto ambiental asociado con el transporte, como la reducción de emisiones de gases contaminantes y la congestión del tráfico.
+
 - **Ejemplo:** Adopción de políticas que fomentan el trabajo remoto y el uso de herramientas de colaboración en línea para reducir los desplazamientos y la necesidad de infraestructuras físicas.
 
 **Gestión eficiente de la energía:**  Ahorro significativo de energía y reducción de costos operativos.
+
 - **Ejemplo:** Implementación de políticas y tecnologías que apagan automáticamente los dispositivos cuando no están en uso, como monitores, impresoras o sistemas informáticos.
 
 Estas prácticas de informática ecológica no solo contribuyen a la sostenibilidad ambiental, sino que también pueden resultar en ahorros económicos a largo plazo para las organizaciones y los individuos.
